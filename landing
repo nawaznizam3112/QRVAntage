@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="QRVantage Marketing FL-LLC - Boost your brand visibility with smart QR campaigns." />
+  <title>QRVantage Marketing FL-LLC</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+      color: #fff;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+    header {
+      padding: 2rem;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 2.5rem;
+      margin: 0;
+    }
+    main {
+      flex: 1;
+      padding: 2rem;
+      text-align: center;
+    }
+    .cta {
+      margin-top: 2rem;
+      font-size: 1.2rem;
+    }
+    .btn {
+      display: inline-block;
+      margin-top: 1.5rem;
+      padding: 0.8rem 1.5rem;
+      background-color: #00b894;
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 8px;
+      transition: background 0.3s;
+    }
+    .btn:hover {
+      background-color: #019875;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background: #111;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>QRVantage Marketing</h1>
+    <p>Florida | LLC</p>
+  </header>
+
+  <main>
+    <p>Welcome to QRVantage! We specialize in dynamic QR code marketing that enhances brand engagement.</p>
+    <div class="cta">
+      <p>📱 Scan the QR code to connect with us or explore our digital services.</p>
+      <a href="https://your-custom-landing-url.com" class="btn">Visit Our Portfolio</a>
+    </div>
+  </main>
+
+  <footer>
+    &copy; 2025 QRVantage Marketing FL-LLC. All rights reserved.
+  </footer>
+</body>
+</html>
